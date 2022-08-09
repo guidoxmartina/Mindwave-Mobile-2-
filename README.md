@@ -1,4 +1,4 @@
-# Mindwave-Mobile-2- OSC 2 TOUCHDESIGNER  
+# Mindwave-Mobile-2-  
 *tutorial para conectar Mindwave mobile 2 con Touchdesigner*
 
 
