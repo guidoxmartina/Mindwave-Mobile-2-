@@ -5,7 +5,7 @@
 ![image](https://user-images.githubusercontent.com/48781895/183589708-47ab1611-b2b4-4a26-a764-3fc83cc50013.png)
 
 
-- Instalar WINDOWS SETUP KIT (este programa es el que te hacen bajar en el instructivo, pero no funciona, solo tiene que estar abierto ejecutándose en la pc aunque figure ''Status : disconnected')
+- Instalar  [Windows Setup Kit](https://github.com/guidoxmartina/Mindwave-Mobile-2-/blob/1dfc80b88b1585eadc679c6b979f9c9bac5b6eb6/Windows%20Setup%20Kit.zip)(este programa es el que te hacen bajar en el instructivo, pero no funciona, solo tiene que estar abierto ejecutándose en la pc aunque figure ''Status : disconnected')
 
 ![image (49)](https://user-images.githubusercontent.com/48781895/183589820-d006e0ec-ead7-4ac5-a2e3-ca8da9079080.png)
 
@@ -30,7 +30,7 @@
  
  ![image (53)](https://user-images.githubusercontent.com/48781895/183590960-04b821c0-a329-4460-9225-2d912fa59299.png)
 
-- Instalar TUTORIAL WINDOWS_V1
+- Instalar [tutorial_windows_v1.2.3](https://github.com/guidoxmartina/Mindwave-Mobile-2-/blob/1dfc80b88b1585eadc679c6b979f9c9bac5b6eb6/tutorial_windows_v1.2.3.zip)
  
  - Al ejecutar cerrar la ventana emergente y presionar en "Click To Connect". En la ventana que se abre dejar el texto en AUTO y apretar Connect. Luego de unos segundos y de probar en varios puertos el programa debería encontrar el puerto en el que esta conectado el dispositivo automáticamente. Si aparece "error to connect"puede ser por que uno de los dos dispositivos que tienen que figurar como conectados (icono auriculares e icono pc) no esten conectados/emparejados
  
@@ -51,9 +51,10 @@ HAY Q CERRARLA SIOSI?
 
 
 # Señal-OSC
-https://github.com/trentbrooks/BrainWaveOSC
+Sacado de https://github.com/trentbrooks/BrainWaveOSC
 
-- Luego de conectar correctamente el dispositivo instalar BRAINWAVEOSC
+- Luego de conectar correctamente el dispositivo instalar [BrainWaveOSC_WIN_0.98](https://github.com/guidoxmartina/Mindwave-Mobile-2-/blob/1dfc80b88b1585eadc679c6b979f9c9bac5b6eb6/BrainWaveOSC_WIN_0.98.zip)
+
 - En esta parte vamos a necesitar el numero/nombre de puerto ANTES MENCIONADO. Este se puede obtener entrando a las propiedades del dispositivo presionando click derecho sobre el icono de MindWave Mobile en "Dispositivos e impresoras". Especificamente en la pestaña "servicios". En este caso es ¨COM3¨
 ![image](https://user-images.githubusercontent.com/48781895/183592634-fd82ed95-eb92-45dd-beaa-31d818f69662.png)
 
@@ -73,4 +74,6 @@ Mediante el CHOP ¨OSC In¨ recibiremos los datos del BRAINWAVE OSC en touchdesi
 ![image (57)](https://user-images.githubusercontent.com/48781895/183593018-d40d9b63-2d27-4a71-aad8-a5b480999550.png)
 
 ![image (58)](https://user-images.githubusercontent.com/48781895/183593043-8feb1330-1151-4034-8cbb-5ebba4376957.png)
+
+Ejemplo [TOE Touchdesigner](https://github.com/guidoxmartina/Mindwave-Mobile-2-/blob/main/Neuro-Touchdesigner.toe)
 
