@@ -1,4 +1,7 @@
 # Mindwave-Mobile-2-   
+*tutorial para conectar Mindwave mobile 2 con Touchdesigner*
+
+
 
 - Comprobar que los drivers de bluetooth estén actualizados desde el administrador de dispositivos
 
@@ -77,3 +80,7 @@ Mediante el CHOP ¨OSC In¨ recibiremos los datos del BRAINWAVE OSC en touchdesi
 
 Ejemplo [TOE Touchdesigner](https://github.com/guidoxmartina/Mindwave-Mobile-2-/blob/main/Neuro-Touchdesigner.toe)
 
+
+## Fuentes
+- https://www.youtube.com/watch?v=GZl89BtTno0 (los archivos de la descripcion estan desactualizados)
+- https://github.com/trentbrooks/BrainWaveOSC
